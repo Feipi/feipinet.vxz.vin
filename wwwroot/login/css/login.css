@@ -1,0 +1,26 @@
+.logotxt{
+	width: 80rpx;
+	height: 30rpx;
+	color: #E6E6FA;
+	text-align: center;
+}
+.item{
+	width: 60rpx;
+	height: 45rpx;
+	text-align: center;
+}
+.item1{
+	width: 40rpx;
+	height: 25rpx;
+	text-align: center;
+}
+.btn{
+	width: 45rpx;
+	height: 25rpx;
+	text-align: center;
+}
+.reg{
+	width: 30rpx;
+	height: 20rpx;
+	text-align: center;
+}
